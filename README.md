@@ -10,7 +10,7 @@ LinkedIn: https://br.linkedin.com/in/thiago-laurenti-coelho-49b80220a;
 
 
 
-## Perfil: :full_moon_with_face: 
+## About me:  
 
 Sempre gostei de tecnologia, tanto para computação, eletrônica, softwares e até pra games. Como consequência da curiosidade sempre fiquei por dentro de noticias, atualizações de diversas áreas no meio tecnológico e espero um dia fazer diferença trabalhando nesse mercado ou até mesmo para melhorar o mundo em que vivemos;
 
@@ -18,22 +18,12 @@ Sempre gostei de tecnologia, tanto para computação, eletrônica, softwares e a
 
 ## Formação: :book: 
 
-- Cursando Engenharia da Computação;
-- Cursando "Curso de Desenvolvimento Java" (ago.  2022 / nov. 2022);
+- Cursando Engenharia da Computação - UNAERP;
+- Curso "Curso de Desenvolvimento Java" (01.ago.2022 / 10.nov.2022);
 
 - Técnico em Eletroeletrônica(jan. 2018 / dez. 2019);
 - Ensino médio completo (dez. 2019);
 
-## Competências: :bookmark_tabs: 
-
-###### Linguagens de programações:
-
-- C / C++;
-- Java;  
-- HTML;
-- SQL;
-- Dart;
-- Modelagem e Ambientação 3D;
 ###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
@@ -43,6 +33,7 @@ Sempre gostei de tecnologia, tanto para computação, eletrônica, softwares e a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" width="52" alt="angularjs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" width="52" alt="dart logo"  />
  </div>
 
 ###### Idiomas: 
