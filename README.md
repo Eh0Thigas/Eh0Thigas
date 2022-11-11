@@ -3,8 +3,7 @@
 
 Tel: (16) 997975103;
 
-LinkedIn: https://br.linkedin.com/in/thiago-laurenti-coelho-49b80220a; <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /> https://br.linkedin.com/in/thiago-laurenti-coelho-49b80220a; 
 ## About me:  
 Olá, sou o Thiago Laurenti Coelho , tenho 21 anos 
 Sempre gostei de tecnologia, tanto para computação, eletrônica, softwares e até pra games. Como consequência da curiosidade sempre fiquei por dentro de noticias, atualizações de diversas áreas no meio tecnológico e espero um dia fazer diferença trabalhando nesse mercado ou até mesmo para melhorar o mundo em que vivemos;
