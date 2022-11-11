@@ -1,9 +1,6 @@
 ## Informações pessoais:
 
 
-
-Idade: 20 anos;
-
 Tel: (16) 997975103;
 
 LinkedIn: https://br.linkedin.com/in/thiago-laurenti-coelho-49b80220a;
@@ -53,6 +50,13 @@ Sempre gostei de tecnologia, tanto para computação, eletrônica, softwares e a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"  />
+</div>
+
+###
+<div align="left">
+  <a href=" https://br.linkedin.com/in/thiago-laurenti-coelho-49b80220a" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
 </div>
 
 <div>
