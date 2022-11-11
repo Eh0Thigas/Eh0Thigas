@@ -1,6 +1,6 @@
 ## Informações pessoais:
 
-Nome: Thiago Laurenti Coelho;
+
 
 Idade: 20 anos;
 
@@ -8,33 +8,17 @@ Tel: (16) 997975103;
 
 LinkedIn: https://br.linkedin.com/in/thiago-laurenti-coelho-49b80220a;
 
-
-
 ## About me:  
-
+Olá, sou o Thiago Laurenti Coelho , tenho 21 anos 
 Sempre gostei de tecnologia, tanto para computação, eletrônica, softwares e até pra games. Como consequência da curiosidade sempre fiquei por dentro de noticias, atualizações de diversas áreas no meio tecnológico e espero um dia fazer diferença trabalhando nesse mercado ou até mesmo para melhorar o mundo em que vivemos;
-
 
 
 ## Formação: :book: 
 
 - Cursando Engenharia da Computação - UNAERP;
 - Curso "Curso de Desenvolvimento Java" (01.ago.2022 / 10.nov.2022);
-
-- Técnico em Eletroeletrônica(jan. 2018 / dez. 2019);
+- - Técnico em Eletroeletrônica(jan. 2018 / dez. 2019);
 - Ensino médio completo (dez. 2019);
-
-###
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" width="52" alt="angularjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" width="52" alt="dart logo"  />
- </div>
 
 ###### Idiomas: 
 - Inglês;
@@ -59,6 +43,17 @@ Sempre gostei de tecnologia, tanto para computação, eletrônica, softwares e a
 - Pró atividade;
 - Estrutura de Dados;
 
+###
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" width="52" alt="angularjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"  />
+</div>
 
 <div>
 <a href="https://github.com/Eh0Thigas">
