@@ -54,9 +54,11 @@ Sempre gostei de tecnologia, tanto para computação, eletrônica, softwares e a
 ###
 <div align="center">
   <a href="https://open.spotify.com/user/0fklcu4lmn78vy0eugjr7tmbi">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=kh8pymw0u97albx1i9t1c7dc4&count=5&unique=false" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=0fklcu4lmn78vy0eugjr7tmbi&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
+
+
 
 
 <div>
