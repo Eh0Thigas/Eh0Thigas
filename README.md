@@ -1,45 +1,8 @@
-# About me:  
-Olá, sou o Thiago Laurenti Coelho , tenho 21 anos 
-Sempre gostei de tecnologia, tanto para computação, eletrônica, softwares e até pra games. Como consequência da curiosidade sempre fiquei por dentro de noticias, atualizações de diversas áreas no meio tecnológico e espero um dia fazer diferença trabalhando nesse mercado ou até mesmo para melhorar o mundo em que vivemos;
-
-
-## Formação: :book: 
-
-- Cursando Engenharia da Computação - UNAERP;
-- Curso "Curso de Desenvolvimento Java" (01.ago.2022 / 10.nov.2022);
-- - Técnico em Eletroeletrônica(jan. 2018 / dez. 2019);
-- Ensino médio completo (dez. 2019);
-
-###### Idiomas: 
-- Inglês;
-- Libras;
-
-###### Softwares: 
-
-- Eclipse , NetBeans;
-- MikroC e Arduino;
-- Unreal Engine, 3DMax , Blender;
-- PostgreSQL; 
-- DevC, Codeblocks;
-- Visual Studio Code;
-
-## Pontos Fortes: :muscle: 
-
-- Logica de programação;
-- Responsabilidade;
-- Organização;
-- Dedicação;
-- Comunicação;
-- Pró atividade;
-- Estrutura de Dados;
+# About me ✋:  
+Olá, sou o Thiago Laurenti Coelho , tenho 21 anos, sempre gostei de tecnologia, tanto para computação, eletrônica, softwares e até pra games. Como consequência da curiosidade sempre fiquei por dentro de noticias, atualizações de diversas áreas no meio tecnológico e espero um dia fazer diferença trabalhando nesse mercado ou até mesmo para melhorar o mundo em que vivemos;
 
 
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/thiago-laurenti-coelho-49b80220a/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
 
 ###
 <div align="center">
