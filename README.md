@@ -1,10 +1,4 @@
-## Informações pessoais:
-
-
-Tel: (16) 997975103;
-
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /> https://br.linkedin.com/in/thiago-laurenti-coelho-49b80220a; 
-## About me:  
+# About me:  
 Olá, sou o Thiago Laurenti Coelho , tenho 21 anos 
 Sempre gostei de tecnologia, tanto para computação, eletrônica, softwares e até pra games. Como consequência da curiosidade sempre fiquei por dentro de noticias, atualizações de diversas áreas no meio tecnológico e espero um dia fazer diferença trabalhando nesse mercado ou até mesmo para melhorar o mundo em que vivemos;
 
@@ -49,6 +43,12 @@ Sempre gostei de tecnologia, tanto para computação, eletrônica, softwares e a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"  />
+</div>
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/thiago-laurenti-coelho-49b80220a/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
 </div>
 
 
