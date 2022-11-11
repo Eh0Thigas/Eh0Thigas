@@ -29,7 +29,7 @@ Sempre gostei de tecnologia, tanto para computação, eletrônica, softwares e a
 ###### Linguagens de programações:
 
 - C / C++;
-- Java; 
+- Java;   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
 - HTML;
 - SQL;
 - Dart;
@@ -59,7 +59,6 @@ Sempre gostei de tecnologia, tanto para computação, eletrônica, softwares e a
 - Pró atividade;
 - Estrutura de Dados;
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
 
 <div>
 <a href="https://github.com/Eh0Thigas">
