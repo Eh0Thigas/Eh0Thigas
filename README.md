@@ -44,10 +44,10 @@ Sempre gostei de tecnologia, tanto para computação, eletrônica, softwares e a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
  </div>
-###### Idiomas: 
 
-- Inglês intermediário;
-- Libras - básico;
+###### Idiomas: 
+- Inglês;
+- Libras;
 
 ###### Softwares: 
 
