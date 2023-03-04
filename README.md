@@ -9,7 +9,6 @@ Olá, sou o Thiago Laurenti Coelho , tenho 21 anos, sempre gostei de tecnologia,
 
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/eh0thigas)
 
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199169239495/)
 
 <hr>
 
